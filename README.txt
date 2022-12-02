@@ -1,0 +1,3 @@
+1. my python application is a currency converter, asks user for input of the currency the amount is in then asks for the currency the user would like it converted to, it then uses the free Fixer API to get the exhange rates using JSON API. To run my image, use command "docker run -it assignment4-currency-converter", I used the flag -it since I am asking for user input and docker run needs that flag so it prompts user for input
+2. https://github.com/yousefhamed-arch/assignment4
+3. https://hub.docker.com/r/yousefhamed791/assignment4-currency-converter
